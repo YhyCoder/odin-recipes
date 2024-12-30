@@ -1,0 +1,15 @@
+body {
+  font-family: Verdana, sans-serif;
+  color: whitesmoke;
+  background-color: hsl(200, 6%, 10%);
+}
+
+.title {
+  text-align: center;
+}
+
+.link {
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  color: #80baef;
+}
