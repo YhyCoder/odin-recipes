@@ -1,0 +1,9 @@
+body {
+  font-family: Verdana, sans-serif;
+  color: whitesmoke;
+  background-color: hsl(200, 6%, 10%);
+}
+
+p, li {
+  font-size: 17px;
+}
