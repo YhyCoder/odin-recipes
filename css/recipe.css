@@ -10,11 +10,34 @@
 }
 
 body {
+  padding: 20px;
   font-family: Verdana, sans-serif;
   color: whitesmoke;
   background-color: hsl(200, 6%, 10%);
 }
 
+.title {
+  margin: 1em 0; 
+  text-align: center;
+}
+
+.recipe-image {
+  display: block;
+  margin: 0 auto;
+}
+
+.subtitle {
+  margin: 2em 0 1em;
+}
+
+.stpes-list, .ingredients-list {
+  padding-left: 2em;
+}
+
 p, li {
   font-size: 17px;
+}
+
+li {
+  margin-bottom: 1em;
 }
